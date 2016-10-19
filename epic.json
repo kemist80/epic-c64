@@ -1,1467 +1,1556 @@
 {
-    "favourites": [
-        {
-            "author": "Klaus Gr\u00f8ngaard (Link)",
-            "title": "Tune Nr. 2",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h00m00s",
-            "offset": "00:00:00",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/L\/Link\/Tune_Nr_2.sid"
-        },
-        {
-            "author": "Sami Sepp\u00e4 (Rock)",
-            "title": "D.Y.S.P.I.D.C.E. (part 2)",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h01m32s",
-            "offset": "00:01:32",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/R\/Rock\/D_Y_S_P_I_D_C_E_part_2.sid"
-        },
-        {
-            "author": "Markus Schneider (Diflex)",
-            "title": "For Shining 8",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h02m33s",
-            "offset": "00:02:33",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/S\/Schneider_Markus\/For_Shining_8.sid"
-        },
-        {
-            "author": "Markus Schneider &amp; Johann H. Stoete",
-            "title": "The Magic Events",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h03m34s",
-            "offset": "00:03:34",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/S\/Schneider_Markus\/Magic_Events.sid"
-        },
-        {
-            "author": "Jeroen Tel",
-            "title": "Alloyrun",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h04m35s",
-            "offset": "00:04:35",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/T\/Tel_Jeroen\/Alloyrun.sid"
-        },
-        {
-            "author": "Falco Paul",
-            "title": "Spijkerhoek 3",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h05m21s",
-            "offset": "00:05:21",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/0-9\/20CC\/Paul_Falco\/Spijkerhoek_3.sid"
-        },
-        {
-            "author": "Jeroen Tel",
-            "title": "Ikari Union",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h07m28s",
-            "offset": "00:07:28",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/T\/Tel_Jeroen\/Ikari_Union.sid"
-        },
-        {
-            "author": "Edwin van Santen",
-            "title": "Nexion",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h08m44s",
-            "offset": "00:08:44",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/0-9\/20CC\/van_Santen_Edwin\/Nexion.sid"
-        },
-        {
-            "author": "Markus Schneider",
-            "title": "Strike Force Introtune",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h11m32s",
-            "offset": "00:11:32",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/S\/Schneider_Markus\/Strike_Force_Introtune.sid"
-        },
-        {
-            "author": "Steve Barrett",
-            "title": "Super Hang-On",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h12m34s",
-            "offset": "00:12:34",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/B\/Barrett_Steve\/Super_Hang-On.sid"
-        },
-        {
-            "author": "Rob Hubbard",
-            "title": "Delta",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h13m50s",
-            "offset": "00:13:50",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Hubbard_Rob\/Delta.sid"
-        },
-        {
-            "author": "Johannes Bjerregaard",
-            "title": "DMC Demo IV (Tune 2)",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h15m07s",
-            "offset": "00:15:07",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/B\/Bjerregaard_Johannes\/DMC_Demo_IV_tune_2.sid"
-        },
-        {
-            "author": "Henrik Buus Jensen",
-            "title": "Unitrax '88 Killermix",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h18m11s",
-            "offset": "00:18:11",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/J\/Jensen_Henrik\/Unitrax_88_Killermix.sid"
-        },
-        {
-            "author": "Fred Gray",
-            "title": "Hysteria",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h19m27s",
-            "offset": "00:19:27",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/G\/Gray_Fred\/Hysteria.sid"
-        },
-        {
-            "author": "David Whittaker",
-            "title": "Cosmonut",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h22m16s",
-            "offset": "00:22:16",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/W\/Whittaker_David\/Cosmonut.sid"
-        },
-        {
-            "author": "Markus Schneider (Diflex)",
-            "title": "Ahead Crack Intro",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h23m32s",
-            "offset": "00:23:32",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/S\/Schneider_Markus\/Ahead_Crack_Intro.sid"
-        },
-        {
-            "author": "Jonathan Dunn",
-            "title": "Robocop",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h24m21s",
-            "offset": "00:24:21",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/D\/Dunn_Jonathan\/RoboCop.sid"
-        },
-        {
-            "author": "Frank Endler",
-            "title": "Task III",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h25m53s",
-            "offset": "00:25:53",
-            "hvsc": "http:\/\/hvsc.perff.dk\/GAMES\/S-Z\/Task_III.sid"
-        },
-        {
-            "author": "Jens-Christian Huus",
-            "title": "Pheric",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h28m29s",
-            "offset": "00:28:29",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/J\/JCH\/Pheric.sid"
-        },
-        {
-            "author": "Oliver Kl\u00e4wer (Jess)",
-            "title": "K.A.O.S.",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h30m00s",
-            "offset": "00:30:00",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/K\/Klaewer_Oliver\/K_A_O_S.sid"
-        },
-        {
-            "author": "Jeroen Tel",
-            "title": "Noisy Pillars",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h31m02s",
-            "offset": "00:31:02",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/T\/Tel_Jeroen\/Noisy_Pillars.sid"
-        },
-        {
-            "author": "Jeroen Kimmel (Red)",
-            "title": "Think Twice IV",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h32m19s",
-            "offset": "00:32:19",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/R\/Red_Kimmel_Jeroen\/Think_Twice_IV.sid"
-        },
-        {
-            "author": "Markus M\u00fcller",
-            "title": "Coco Intro",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h33m56s",
-            "offset": "00:33:56",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/M\/Mueller_Markus\/Coco_Intro.sid"
-        },
-        {
-            "author": "Rob Hubbard",
-            "title": "ACE II",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h34m56s",
-            "offset": "00:34:56",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Hubbard_Rob\/ACE_II.sid"
-        },
-        {
-            "author": "Fred Gray",
-            "title": "Firefly",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h40m08s",
-            "offset": "00:40:08",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/G\/Gray_Fred\/Firefly.sid"
-        },
-        {
-            "author": "Oliver Kl\u00e4wer",
-            "title": "Maniax",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h41m57s",
-            "offset": "00:41:57",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/K\/Klaewer_Oliver\/Maniax.sid"
-        },
-        {
-            "author": "Jeroen Kimmel",
-            "title": "Radax",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h43m40s",
-            "offset": "00:43:40",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/R\/Red_Kimmel_Jeroen\/Radax.sid"
-        },
-        {
-            "author": "Ben Daglish &amp; Antony Crowther",
-            "title": "Ark Pandora",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h45m41s",
-            "offset": "00:45:41",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/D\/Daglish_Ben\/Ark_Pandora.sid"
-        },
-        {
-            "author": "David Whittaker",
-            "title": "Glider Rider",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h47m25s",
-            "offset": "00:47:25",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/W\/Whittaker_David\/Glider_Rider.sid"
-        },
-        {
-            "author": "David Whittaker",
-            "title": "BraveStarr",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h49m05s",
-            "offset": "00:49:05",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/W\/Whittaker_David\/BraveStarr.sid"
-        },
-        {
-            "author": "Sami Sepp\u00e4 (Rock)",
-            "title": "Contest Demo (part 4)",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h52m36s",
-            "offset": "00:52:36",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/R\/Rock\/Contest_Demo_part_4.sid"
-        },
-        {
-            "author": "Rob Hubbard",
-            "title": "Spellbound",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h56m35s",
-            "offset": "00:56:35",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Hubbard_Rob\/Spellbound.sid"
-        },
-        {
-            "author": "Jens-Christian Huus",
-            "title": "Sampler #1",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=01h02m17s",
-            "offset": "01:02:17",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/J\/JCH\/Sampler_1.sid"
-        },
-        {
-            "author": "Rob Hubbard",
-            "title": "One Man &amp; His Droid",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=01h05m49s",
-            "offset": "01:05:49",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Hubbard_Rob\/One_Man_and_His_Droid.sid"
-        },
-        {
-            "author": "Thomas E. Petersen (Laxity)",
-            "title": "The Last Starfighter",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=01h11m37s",
-            "offset": "01:11:37",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/L\/Laxity\/Last_Space_Fighter.sid"
-        },
-        {
-            "author": "David Whittaker",
-            "title": "Speedball",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=01h13m34s",
-            "offset": "01:13:34",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/W\/Whittaker_David\/Speedball.sid"
-        },
-        {
-            "author": "Johannes Bjerregaard",
-            "title": "Omega Force One",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=01h16m04s",
-            "offset": "01:16:04",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/B\/Bjerregaard_Johannes\/Omega_Force_One.sid"
-        },
-        {
-            "author": "Markus M\u00fcller (Superbrain)",
-            "title": "GCF-Intro",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=01h17m15s",
-            "offset": "01:17:15",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/M\/Mueller_Markus\/GCF-Intro.sid"
-        },
-        {
-            "author": "Marcel Donn\u00e9 (Mad)",
-            "title": "Ikari Intro",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=01h18m16s",
-            "offset": "01:18:16",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/M\/Mad_Donne_Marcel\/Ikari_Intro.sid"
-        },
-        {
-            "author": "Kim Christensen (Future Freak)",
-            "title": "Rocky Star (Intro)",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=01h19m17s",
-            "offset": "01:19:17",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/F\/Future_Freak\/Rocky_Star_Intro.sid"
-        },
-        {
-            "author": "J\u00f6rg &amp; Frank Sch\u00e4fers",
-            "title": "Hurling Frootmig",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=01h22m55s",
-            "offset": "01:22:55",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/R\/Rockin_Limited\/Hurling_Frootmig.sid"
-        },
-        {
-            "author": "Jeroen Tel",
-            "title": "Ice Age",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=01h25m23s",
-            "offset": "01:25:23",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/T\/Tel_Jeroen\/Ice_Age.sid"
-        },
-        {
-            "author": "Jonathan Dunn",
-            "title": "Basket Master",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=01h31m02s",
-            "offset": "01:31:02",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/D\/Dunn_Jonathan\/Basket_Master.sid"
-        },
-        {
-            "author": "Thomas E. Petersen (Laxity)",
-            "title": "Jewels",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=01h32m10s",
-            "offset": "01:32:10",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/L\/Laxity\/Jewels.sid"
-        },
-        {
-            "author": "Jens-Christian Huus",
-            "title": "Beaty intro",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=01h36m56s",
-            "offset": "01:36:56",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/J\/JCH\/Non_JCH_Newplayer\/Beaty_intro.sid"
-        },
-        {
-            "author": "Marcel Donn\u00e9 (Mad)",
-            "title": "Amyloid",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=01h37m42s",
-            "offset": "01:37:42",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/M\/Mad_Donne_Marcel\/Amyloid.sid"
-        },
-        {
-            "author": "Jeroen Kimmel",
-            "title": "Playboy, the Game",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=01h42m44s",
-            "offset": "01:42:44",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/R\/Red_Kimmel_Jeroen\/Playboy_the_Game.sid"
-        },
-        {
-            "author": "Sami Sepp\u00e4 (Rock)",
-            "title": "Contest Demo (part 2)",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=01h43m34s",
-            "offset": "01:43:34",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/R\/Rock\/Contest_Demo_part_2.sid"
-        },
-        {
-            "author": "Edwin van Santen",
-            "title": "PCW-Tune '88",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=01h45m18s",
-            "offset": "01:45:18",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/0-9\/20CC\/van_Santen_Edwin\/PCW-Tune_88.sid"
-        },
-        {
-            "author": "David Whittaker",
-            "title": "Enduro Racer",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=01h49m07s",
-            "offset": "01:49:07",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/W\/Whittaker_David\/Enduro_Racer.sid"
-        },
-        {
-            "author": "Rob Hubbard",
-            "title": "Phantoms of the Asteroid",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=01h51m57s",
-            "offset": "01:51:57",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Hubbard_Rob\/Phantoms_of_the_Asteroid.sid"
-        },
-        {
-            "author": "Oliver Kl\u00e4wer (Jess)",
-            "title": "K.A.O.S.",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=01h56m13s",
-            "offset": "01:56:13",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/K\/Klaewer_Oliver\/K_A_O_S.sid"
-        },
-        {
-            "author": "Martin Galway",
-            "title": "Comic Bakery",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=02h00m38s",
-            "offset": "02:00:38",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/G\/Galway_Martin\/Comic_Bakery.sid"
-        },
-        {
-            "author": "Jeroen Kimmel (Red)",
-            "title": "Think Twice III",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=02h03m48s",
-            "offset": "02:03:48",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/R\/Red_Kimmel_Jeroen\/Think_Twice_III.sid"
-        },
-        {
-            "author": "Wally Beben",
-            "title": "R.I.S.K.",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=02h11m56s",
-            "offset": "02:11:56",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/B\/Beben_Wally\/R_I_S_K.sid"
-        },
-        {
-            "author": "Johannes Bjerregaard",
-            "title": "M.A.C.H.",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=02h15m10s",
-            "offset": "02:15:10",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/B\/Bjerregaard_Johannes\/M_A_C_H.sid"
-        },
-        {
-            "author": "Antony Crowther",
-            "title": "R1D1",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=02h18m14s",
-            "offset": "02:18:14",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/C\/Crowther_Antony\/R1D1.sid"
-        },
-        {
-            "author": "Charles Deenen",
-            "title": "Give It a Try",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=02h20m34s",
-            "offset": "02:20:34",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/D\/Deenen_Charles\/Give_It_a_Try.sid"
-        },
-        {
-            "author": "Neil Baldwin",
-            "title": "Ala",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=02h22m31s",
-            "offset": "02:22:31",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/B\/Baldwin_Neil\/Ala.sid"
-        },
-        {
-            "author": "Rob Hubbard",
-            "title": "Thrust",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=02h25m17s",
-            "offset": "02:25:17",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Hubbard_Rob\/Thrust.sid"
-        },
-        {
-            "author": "Ben Daglish",
-            "title": "Masters of the Universe",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=02h31m53s",
-            "offset": "02:31:53",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/D\/Daglish_Ben\/Masters_of_the_Universe.sid"
-        },
-        {
-            "author": "Rob Hubbard",
-            "title": "Thanatos",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=02h33m10s",
-            "offset": "02:33:10",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Hubbard_Rob\/Thanatos.sid"
-        },
-        {
-            "author": "Adam Gilmore",
-            "title": "Draconus",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=02h34m08s",
-            "offset": "02:34:08",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/G\/Gilmore_Adam\/Draconus.sid"
-        },
-        {
-            "author": "Martin Galway",
-            "title": "Wizball",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=02h37m38s",
-            "offset": "02:37:38",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/G\/Galway_Martin\/Wizball.sid"
-        },
-        {
-            "author": "Ben Daglish",
-            "title": "Future Knight",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=02h41m11s",
-            "offset": "02:41:11",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/D\/Daglish_Ben\/Future_Knight.sid"
-        },
-        {
-            "author": "Matt Gray",
-            "title": "Driller",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=02h44m10s",
-            "offset": "02:44:10",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/G\/Gray_Matt\/Driller.sid"
-        },
-        {
-            "author": "Martin Galway",
-            "title": "Green Beret",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=02h54m23s",
-            "offset": "02:54:23",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/G\/Galway_Martin\/Green_Beret.sid"
-        },
-        {
-            "author": "Martin Galway",
-            "title": "Miami Vice",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=02h58m10s",
-            "offset": "02:58:10",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/G\/Galway_Martin\/Miami_Vice.sid"
-        },
-        {
-            "author": "Jeroen Tel",
-            "title": "Stormlord",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=03h09m41s",
-            "offset": "03:09:41",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/B\/Bjerregaard_Johannes\/Stormlord.sid"
-        },
-        {
-            "author": "Martin Galway",
-            "title": "Arkanoid",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=03h15m49s",
-            "offset": "03:15:49",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/G\/Galway_Martin\/Arkanoid.sid"
-        },
-        {
-            "author": "Rob Hubbard",
-            "title": "I-Ball",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=03h18m06s",
-            "offset": "03:18:06",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Hubbard_Rob\/I-Ball.sid"
-        },
-        {
-            "author": "Jeroen Kimmel (Red)",
-            "title": "Traz",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=03h23m04s",
-            "offset": "03:23:04",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/R\/Red_Kimmel_Jeroen\/Traz.sid"
-        },
-        {
-            "author": "Martin Galway",
-            "title": "Combat School",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=03h26m59s",
-            "offset": "03:26:59",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/G\/Galway_Martin\/Combat_School.sid"
-        },
-        {
-            "author": "Chris H\u00fclsbeck",
-            "title": "Starball",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=03h29m16s",
-            "offset": "03:29:16",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Huelsbeck_Chris\/Starball.sid"
-        },
-        {
-            "author": "Johannes Bjerregaard",
-            "title": "Fourth Dimension",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=03h34m52s",
-            "offset": "03:34:52",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/B\/Bjerregaard_Johannes\/Fourth_Dimension.sid"
-        },
-        {
-            "author": "Rob Hubbard",
-            "title": "Ricochet",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=03h40m06s",
-            "offset": "03:40:06",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Hubbard_Rob\/Ricochet.sid"
-        },
-        {
-            "author": "Jeroen Kimmel (Red)",
-            "title": "Crazy Sample II (intro)",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=03h43m27s",
-            "offset": "03:43:27",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/R\/Red_Kimmel_Jeroen\/Crazy_Sample_II_intro.sid"
-        },
-        {
-            "author": "Rob Hubbard",
-            "title": "Skate or Die (intro)",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=03h44m17s",
-            "offset": "03:44:17",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Hubbard_Rob\/Skate_or_Die_intro.sid"
-        },
-        {
-            "author": "Matt Gray",
-            "title": "Bangkok Knights Loader",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=03h48m23s",
-            "offset": "03:48:23",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/G\/Gray_Matt\/Bangkok_Knights_Loader.sid"
-        },
-        {
-            "author": "Karl &amp; Hannes Sommer",
-            "title": "Lions of the Universe",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=03h53m06s",
-            "offset": "03:53:06",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/M\/MC_Lord\/Lions_of_the_Universe.sid"
-        },
-        {
-            "author": "Peter Clarke",
-            "title": "Ocean Loader 3",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=03h54m53s",
-            "offset": "03:54:53",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/C\/Clarke_Peter\/Ocean_Loader_3.sid"
-        },
-        {
-            "author": "Rob Hubbard",
-            "title": "Monty on the Run",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=03h57m41s",
-            "offset": "03:57:41",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Hubbard_Rob\/Monty_on_the_Run.sid"
-        },
-        {
-            "author": "Dave Lee",
-            "title": "Erebus",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=04h03m30s",
-            "offset": "04:03:30",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/L\/Lee_Dave\/Erebus.sid"
-        },
-        {
-            "author": "Kim Christensen (Future Freak)",
-            "title": "Dexion Demo",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=04h04m31s",
-            "offset": "04:04:31",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/F\/Future_Freak\/Dexion_Demo.sid"
-        },
-        {
-            "author": "M. Claessens (The Dream Maker)",
-            "title": "Crocket's Mix",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=04h08m28s",
-            "offset": "04:08:28",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/T\/The_Dream_Maker\/Crockets_Mix.sid"
-        },
-        {
-            "author": "Jeroen Tel",
-            "title": "Supremacy",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=04h14m14s",
-            "offset": "04:14:14",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/T\/Tel_Jeroen\/Supremacy.sid"
-        },
-        {
-            "author": "Markus Schneider",
-            "title": "Kaos",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=04h18m04s",
-            "offset": "04:18:04",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/S\/Schneider_Markus\/TLI_Intro_1.sid"
-        },
-        {
-            "author": "Markus M\u00fcller (Hayes)",
-            "title": "The Cat",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=04h20m29s",
-            "offset": "04:20:29",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/M\/Mueller_Markus\/Cat.sid"
-        },
-        {
-            "author": "Joachim Wijnhoven",
-            "title": "Shadow of the Beast (demo)",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=04h23m56s",
-            "offset": "04:23:56",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/W\/Wijnhoven_Joachim\/Shadow_of_the_Beast_demo.sid"
-        },
-        {
-            "author": "Jeroen Soede",
-            "title": "Snik",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=04h25m55s",
-            "offset": "04:25:55",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/S\/SoedeSoft\/Soede_Jeroen\/Snik.sid"
-        },
-        {
-            "author": "Jeroen Tel",
-            "title": "Alloyrun",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=04h27m13s",
-            "offset": "04:27:13",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/T\/Tel_Jeroen\/Alloyrun.sid"
-        },
-        {
-            "author": "Charles Deenen",
-            "title": "Zamzara",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=04h33m59s",
-            "offset": "04:33:59",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/D\/Deenen_Charles\/Zamzara.sid"
-        },
-        {
-            "author": "Chris H\u00fclsbeck",
-            "title": "R-Type",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=04h39m29s",
-            "offset": "04:39:29",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Huelsbeck_Chris\/R-Type.sid"
-        },
-        {
-            "author": "Thomas Petersen &amp; K. Christensen ",
-            "title": "DNA Warrior",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=04h41m39s",
-            "offset": "04:41:39",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/L\/Laxity\/DNA_Warrior.sid"
-        },
-        {
-            "author": "Markus Schneider &amp; Jens Blidon",
-            "title": "Platou",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=04h46m02s",
-            "offset": "04:46:02",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/S\/Schneider_Markus\/Platou.sid"
-        },
-        {
-            "author": "Marcel Donn\u00e9 (Mad)",
-            "title": "Amyloid",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=04h47m27s",
-            "offset": "04:47:27",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/M\/Mad_Donne_Marcel\/Amyloid.sid"
-        },
-        {
-            "author": "Rob Hubbard",
-            "title": "Commando",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=04h48m35s",
-            "offset": "04:48:35",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Hubbard_Rob\/Commando.sid"
-        },
-        {
-            "author": "Jeroen Tel",
-            "title": "Cybernoid",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=04h52m30s",
-            "offset": "04:52:30",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/T\/Tel_Jeroen\/Cybernoid.sid"
-        },
-        {
-            "author": "Jeroen Soede",
-            "title": "Airwolf Title",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=04h59m08s",
-            "offset": "04:59:08",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/S\/SoedeSoft\/Soede_Jeroen\/Airwolf_Title.sid"
-        },
-        {
-            "author": "Thomas E. Petersen (Laxity)",
-            "title": "Crosswords",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=05h00m12s",
-            "offset": "05:00:12",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/L\/Laxity\/Crosswords.sid"
-        },
-        {
-            "author": "Karl Sommer (MC Lord)",
-            "title": "CosMail (tune 02)",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=05h06m22s",
-            "offset": "05:06:22",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/M\/MC_Lord\/CosMail_tune_02.sid"
-        },
-        {
-            "author": "Johannes Bjerregaard",
-            "title": "Namnam Special",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=05h08m30s",
-            "offset": "05:08:30",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/B\/Bjerregaard_Johannes\/Namnam_Special.sid"
-        },
-        {
-            "author": "Jens-Christian Huus",
-            "title": "Hoppin'",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=05h10m39s",
-            "offset": "05:10:39",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/J\/JCH\/Hoppin.sid"
-        },
-        {
-            "author": "Ward Selles",
-            "title": "Jippie",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=05h11m19s",
-            "offset": "05:11:19",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/S\/Selles_Ward\/Jippie.sid"
-        },
-        {
-            "author": "Marcel Donn\u00e9 (Mad)",
-            "title": "Scorpion",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=05h12m26s",
-            "offset": "05:12:26",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/M\/Mad_Donne_Marcel\/Scorpion.sid"
-        },
-        {
-            "author": "Thomas E. Petersen (Laxity)",
-            "title": "Nefarious",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=05h15m29s",
-            "offset": "05:15:29",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/L\/Laxity\/Nefarious.sid"
-        },
-        {
-            "author": "Jeroen Tel",
-            "title": "Battle Valley",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=05h19m59s",
-            "offset": "05:19:59",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/T\/Tel_Jeroen\/Battle_Valley.sid"
-        },
-        {
-            "author": "David Whittaker",
-            "title": "Panther",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=05h26m58s",
-            "offset": "05:26:58",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/W\/Whittaker_David\/Panther.sid"
-        },
-        {
-            "author": "Jonathan Dunn",
-            "title": "Platoon",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=05h29m52s",
-            "offset": "05:29:52",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/D\/Dunn_Jonathan\/Platoon.sid"
-        },
-        {
-            "author": "Neil Baldwin",
-            "title": "Shadow Skimmer",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=05h31m54s",
-            "offset": "05:31:54",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/B\/Baldwin_Neil\/Shadow_Skimmer.sid"
-        },
-        {
-            "author": "Jason C. Brooke",
-            "title": "Out Run",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=05h35m19s",
-            "offset": "05:35:19",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/B\/Brooke_Jason\/Out_Run.sid"
-        },
-        {
-            "author": "Neil Baldwin (Demon)",
-            "title": "Another Tune for Joanna",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=05h37m15s",
-            "offset": "05:37:15",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/B\/Baldwin_Neil\/Another_Tune_for_Joanna.sid"
-        },
-        {
-            "author": "Jens-Christian Huus",
-            "title": "Can't Stop",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=05h40m19s",
-            "offset": "05:40:19",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/J\/JCH\/Non_JCH_Newplayer\/Cant_Stop.sid"
-        },
-        {
-            "author": "Jeroen Soede",
-            "title": "Funky Stuff",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=05h41m20s",
-            "offset": "05:41:20",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/S\/SoedeSoft\/Soede_Jeroen\/Funky_Stuff.sid"
-        },
-        {
-            "author": "Charles Deenen",
-            "title": "That's the Way It Is (intro)",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=05h43m11s",
-            "offset": "05:43:11",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/D\/Deenen_Charles\/Thats_the_Way_It_Is_intro.sid"
-        },
-        {
-            "author": "Part 2",
-            "title": "Twistin'88",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=05h50m45s",
-            "offset": "05:50:45",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/L\/Laxity\/Twistin_88-Part_2.sid"
-        },
-        {
-            "author": "Thomas Mogensen (DRAX)",
-            "title": "Silence",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=05h54m17s",
-            "offset": "05:54:17",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/D\/DRAX\/Silence.sid"
-        },
-        {
-            "author": "Klaus Gr\u00f8ngaard (Link)",
-            "title": "Take Over",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=05h57m06s",
-            "offset": "05:57:06",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/L\/Link\/Take_Over.sid"
-        },
-        {
-            "author": "Jens-Christian Huus",
-            "title": "Hollow+",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=05h58m14s",
-            "offset": "05:58:14",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/J\/JCH\/Hollow_plus.sid"
-        },
-        {
-            "author": "Jeroen Tel",
-            "title": "Kinetix",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=05h59m16s",
-            "offset": "05:59:16",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/T\/Tel_Jeroen\/Kinetix.sid"
-        },
-        {
-            "author": "Johannes Bjerregaard",
-            "title": "Street Cred Boxing",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=06h01m52s",
-            "offset": "06:01:52",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/B\/Bjerregaard_Johannes\/Street_Cred_Boxing.sid"
-        },
-        {
-            "author": "Michael Hendriks",
-            "title": "Dynamic Range",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=06h05m27s",
-            "offset": "06:05:27",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/F\/FAME\/Hendriks_Michael\/Dynamic_Range.sid"
-        },
-        {
-            "author": "Ben Daglish",
-            "title": "Krakout",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=06h07m38s",
-            "offset": "06:07:38",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/D\/Daglish_Ben\/Krakout.sid"
-        },
-        {
-            "author": "Neil Baldwin (Demon)",
-            "title": "Garfield",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=06h10m24s",
-            "offset": "06:10:24",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/B\/Baldwin_Neil\/Garfield.sid"
-        },
-        {
-            "author": "Thomas Mogensen (DRAX)",
-            "title": "Nibbly'92",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=06h14m22s",
-            "offset": "06:14:22",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/D\/DRAX\/Nibbly_92.sid"
-        },
-        {
-            "author": "The Legend Continues",
-            "title": "Fist II",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=06h17m13s",
-            "offset": "06:17:13",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/B\/Brennan_Neil\/Fist_II-The_Legend_Continues.sid"
-        },
-        {
-            "author": "David M. Hanlon",
-            "title": "Enlightenment: Druid II",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=06h18m14s",
-            "offset": "06:18:14",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Hanlon_David\/Enlightenment_Druid_II.sid"
-        },
-        {
-            "author": "Anthony Lees",
-            "title": "The Last Ninja",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=06h19m31s",
-            "offset": "06:19:31",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/D\/Daglish_Ben\/Last_Ninja.sid"
-        },
-        {
-            "author": "Martin Walker",
-            "title": "Armalyte",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=06h24m08s",
-            "offset": "06:24:08",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/W\/Walker_Martin\/Armalyte.sid"
-        },
-        {
-            "author": "Rob Hubbard &amp; Ben Daglish",
-            "title": "Auf Wiedersehen Monty",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=06h27m40s",
-            "offset": "06:27:40",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Hubbard_Rob\/Auf_Wiedersehen_Monty.sid"
-        },
-        {
-            "author": "Rob Hubbard",
-            "title": "The last V8",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=06h33m39s",
-            "offset": "06:33:39",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Hubbard_Rob\/Last_V8.sid"
-        },
-        {
-            "author": "Matt Gray",
-            "title": "Last Ninja 2",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=06h35m58s",
-            "offset": "06:35:58",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/G\/Gray_Matt\/Last_Ninja_2.sid"
-        },
-        {
-            "author": "Ben Daglish",
-            "title": "Bulldog",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=06h41m34s",
-            "offset": "06:41:34",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/D\/Daglish_Ben\/Bulldog.sid"
-        },
-        {
-            "author": "David Whittaker",
-            "title": "Poltergeist",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=06h44m05s",
-            "offset": "06:44:05",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/W\/Whittaker_David\/Poltergeist.sid"
-        },
-        {
-            "author": "Johannes Bjerregaard",
-            "title": "Eagles",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=06h48m38s",
-            "offset": "06:48:38",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/B\/Bjerregaard_Johannes\/Eagles.sid"
-        },
-        {
-            "author": "Chris H\u00fclsbeck",
-            "title": "The Great Giana Sisters",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=06h49m34s",
-            "offset": "06:49:34",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Huelsbeck_Chris\/Great_Giana_Sisters.sid"
-        },
-        {
-            "author": "Mark Cooksey",
-            "title": "Ghosts'n Goblins",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=06h50m47s",
-            "offset": "06:50:47",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/C\/Cooksey_Mark\/Ghosts_n_Goblins.sid"
-        },
-        {
-            "author": "Rob Hubbard",
-            "title": "Crazy Comets",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=06h54m37s",
-            "offset": "06:54:37",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Hubbard_Rob\/Crazy_Comets.sid"
-        },
-        {
-            "author": "Matt Gray",
-            "title": "Hunter's Moon",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=06h59m13s",
-            "offset": "06:59:13",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/G\/Gray_Matt\/Hunters_Moon.sid"
-        },
-        {
-            "author": "Jeroen Tel",
-            "title": "Scout",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=07h00m03s",
-            "offset": "07:00:03",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/T\/Tel_Jeroen\/Scout.sid"
-        },
-        {
-            "author": "Michael Hendriks",
-            "title": "A Little Sample",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=07h04m08s",
-            "offset": "07:04:08",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/F\/FAME\/Hendriks_Michael\/A_Little_Sample.sid"
-        },
-        {
-            "author": "Thomas E. Petersen (Laxity)",
-            "title": "Ikari Intro Song",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=07h06m48s",
-            "offset": "07:06:48",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/L\/Laxity\/Ikari_Intro_Song.sid"
-        },
-        {
-            "author": "Jeroen Tel",
-            "title": "S-Express",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=07h07m34s",
-            "offset": "07:07:34",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/T\/Tel_Jeroen\/S-Express.sid"
-        },
-        {
-            "author": "Ben Daglish",
-            "title": "Footballer of the Year",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=07h09m22s",
-            "offset": "07:09:22",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/D\/Daglish_Ben\/Footballer_of_the_Year.sid"
-        },
-        {
-            "author": "Edwin van Santen",
-            "title": "Layla Mix",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=07h11m24s",
-            "offset": "07:11:24",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/0-9\/20CC\/van_Santen_Edwin\/Layla_Mix.sid"
-        },
-        {
-            "author": "Jeroen Soede",
-            "title": "Artax",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=07h13m15s",
-            "offset": "07:13:15",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/S\/SoedeSoft\/Soede_Jeroen\/Artax.sid"
-        },
-        {
-            "author": "Jeroen Tel",
-            "title": "Savage",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=07h15m53s",
-            "offset": "07:15:53",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/T\/Tel_Jeroen\/Savage.sid"
-        },
-        {
-            "author": "Markus Schneider &amp; Jens Blidon",
-            "title": "Platou",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=07h21m53s",
-            "offset": "07:21:53",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/S\/Schneider_Markus\/Platou.sid"
-        },
-        {
-            "author": "Thomas E. Petersen (Laxity)",
-            "title": "Ikari Intro",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=07h25m28s",
-            "offset": "07:25:28",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/L\/Laxity\/Ikari_Intro.sid"
-        },
-        {
-            "author": "Jeroen Tel",
-            "title": "Hawkeye",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=07h26m53s",
-            "offset": "07:26:53",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/T\/Tel_Jeroen\/Hawkeye.sid"
-        },
-        {
-            "author": "Reyn Ouwehand",
-            "title": "Last Ninja 3",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=07h33m16s",
-            "offset": "07:33:16",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/O\/Ouwehand_Reyn\/Last_Ninja_3.sid"
-        },
-        {
-            "author": "Jonathan Dunn",
-            "title": "Platoon",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=07h38m02s",
-            "offset": "07:38:02",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/D\/Dunn_Jonathan\/Platoon.sid"
-        },
-        {
-            "author": "Matt Gray",
-            "title": "Last Ninja 2",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=07h41m11s",
-            "offset": "07:41:11",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/G\/Gray_Matt\/Last_Ninja_2.sid"
-        },
-        {
-            "author": "Jeroen Soede",
-            "title": "MacGyver Title",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=07h48m57s",
-            "offset": "07:48:57",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/S\/SoedeSoft\/Soede_Jeroen\/MacGyver_Title.sid"
-        },
-        {
-            "author": "Adam Gilmore",
-            "title": "The Corporation",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=07h50m21s",
-            "offset": "07:50:21",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/G\/Gilmore_Adam\/Corporation.sid"
-        },
-        {
-            "author": "Rob Hubbard",
-            "title": "Zoids",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=07h52m29s",
-            "offset": "07:52:29",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Hubbard_Rob\/Zoids.sid"
-        },
-        {
-            "author": "Henrik Buus Jensen",
-            "title": "Maximum Overdrive II (intro)",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=07h57m09s",
-            "offset": "07:57:09",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/J\/Jensen_Henrik\/Maximum_Overdrive_II_intro.sid"
-        },
-        {
-            "author": "Matt Gray",
-            "title": "Professional BMX Simulator",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=08h00m32s",
-            "offset": "08:00:32",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/G\/Gray_Matt\/Professional_BMX_Simulator.sid"
-        },
-        {
-            "author": "Jeroen Kimmel (Red)",
-            "title": "Rhaa Lovely II",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=08h01m40s",
-            "offset": "08:01:40",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/R\/Red_Kimmel_Jeroen\/Rhaa_Lovely_II.sid"
-        },
-        {
-            "author": "Ward Selles",
-            "title": "Spriffs II",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=08h04m44s",
-            "offset": "08:04:44",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/S\/Selles_Ward\/Spriffs_II.sid"
-        },
-        {
-            "author": "Thomas E. Petersen (Laxity)",
-            "title": "Public Enemy",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=08h06m16s",
-            "offset": "08:06:16",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/L\/Laxity\/Public_Enemy.sid"
-        },
-        {
-            "author": "Jason C. Brooke",
-            "title": "Out Run",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=08h07m10s",
-            "offset": "08:07:10",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/B\/Brooke_Jason\/Out_Run.sid"
-        },
-        {
-            "author": "Neil Brennan",
-            "title": "The Way of the Exploding Fist",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=08h10m21s",
-            "offset": "08:10:21",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/B\/Brennan_Neil\/Way_of_the_Exploding_Fist.sid"
-        },
-        {
-            "author": "Jeroen Kimmel (Red)",
-            "title": "Game Music 3",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=08h11m45s",
-            "offset": "08:11:45",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/R\/Red_Kimmel_Jeroen\/Game_Music_3.sid"
-        },
-        {
-            "author": "Jonathan Dunn",
-            "title": "Revenge of Doh",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=08h16m52s",
-            "offset": "08:16:52",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/D\/Dunn_Jonathan\/Revenge_of_Doh.sid"
-        },
-        {
-            "author": "Rob Hubbard",
-            "title": "International Karate",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=08h18m55s",
-            "offset": "08:18:55",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Hubbard_Rob\/International_Karate.sid"
-        },
-        {
-            "author": "Ben Daglish",
-            "title": "Firelord",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=08h29m37s",
-            "offset": "08:29:37",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/D\/Daglish_Ben\/Firelord.sid"
-        },
-        {
-            "author": "Richard Joseph",
-            "title": "Defender of the Crown",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=08h29m59s",
-            "offset": "08:29:59",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/J\/Joseph_Richard\/Defender_of_the_Crown.sid"
-        },
-        {
-            "author": "Jeroen Tel",
-            "title": "Robocop 3",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=08h30m59s",
-            "offset": "08:30:59",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/T\/Tel_Jeroen\/RoboCop_3.sid"
-        },
-        {
-            "author": "Charles Deenen",
-            "title": "Double Dragon",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=08h34m54s",
-            "offset": "08:34:54",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/D\/Deenen_Charles\/Double_Dragon.sid"
-        },
-        {
-            "author": "Jeroen Tel",
-            "title": "Cybernoid II",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=08h38m06s",
-            "offset": "08:38:06",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/T\/Tel_Jeroen\/Cybernoid_II.sid"
-        },
-        {
-            "author": "Charles Deenen",
-            "title": "Cool Tune",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=08h43m51s",
-            "offset": "08:43:51",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/D\/Deenen_Charles\/Cool_Tune.sid"
-        },
-        {
-            "author": "Rob Hubbard",
-            "title": "Warhawk",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=08h44m40s",
-            "offset": "08:44:40",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Hubbard_Rob\/Warhawk.sid"
-        },
-        {
-            "author": "Jeroen Kimmel",
-            "title": "The Big Deal",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=08h49m03s",
-            "offset": "08:49:03",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/R\/Red_Kimmel_Jeroen\/Big_Deal.sid"
-        },
-        {
-            "author": "Ben Daglish",
-            "title": "The Last Ninja",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=08h52m13s",
-            "offset": "08:52:13",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/D\/Daglish_Ben\/Last_Ninja.sid"
-        },
-        {
-            "author": "Rob Hubbard",
-            "title": "Nemesis the Warlock",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=08h56m10s",
-            "offset": "08:56:10",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Hubbard_Rob\/Nemesis_the_Warlock.sid"
-        },
-        {
-            "author": "Chris H\u00fclsbeck",
-            "title": "Grand Monster Slam",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=09h03m02s",
-            "offset": "09:03:02",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Huelsbeck_Chris\/Grand_Monster_Slam.sid"
-        },
-        {
-            "author": "Jeroen Tel",
-            "title": "Hawkeye",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=09h06m39s",
-            "offset": "09:06:39",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/T\/Tel_Jeroen\/Hawkeye.sid"
-        },
-        {
-            "author": "Adam Gilmore",
-            "title": "Zybex",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=09h07m41s",
-            "offset": "09:07:41",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/G\/Gilmore_Adam\/Zybex.sid"
-        },
-        {
-            "author": "Rob Hubbard",
-            "title": "Lightforce",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=09h10m06s",
-            "offset": "09:10:06",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Hubbard_Rob\/Lightforce.sid"
-        },
-        {
-            "author": "Ben Daglish",
-            "title": "Cobra",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=09h17m10s",
-            "offset": "09:17:10",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/D\/Daglish_Ben\/Cobra.sid"
-        },
-        {
-            "author": "Jeroen Soede",
-            "title": "TrailMix (intro)",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=09h20m16s",
-            "offset": "09:20:16",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/S\/SoedeSoft\/Soede_Jeroen\/TrailMix_intro.sid"
-        },
-        {
-            "author": "David Whittaker",
-            "title": "Storm",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=09h21m42s",
-            "offset": "09:21:42",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/W\/Whittaker_David\/Storm.sid"
-        },
-        {
-            "author": "Charles Deenen &amp; Jeroen Tel",
-            "title": "Soldier of Light",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=09h22m46s",
-            "offset": "09:22:46",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/D\/Deenen_Charles\/Soldier_of_Light.sid"
-        },
-        {
-            "author": "Martin Galway",
-            "title": "Rambo: First Blood Part II",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=09h23m48s",
-            "offset": "09:23:48",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/G\/Galway_Martin\/Rambo_First_Blood_Part_II.sid"
-        },
-        {
-            "author": "Rob Hubbard",
-            "title": "Sanxion",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=09h26m51s",
-            "offset": "09:26:51",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Hubbard_Rob\/Sanxion.sid"
-        },
-        {
-            "author": "Markus Schneider",
-            "title": "Double Density Commercial",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=09h32m24s",
-            "offset": "09:32:24",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/S\/Schneider_Markus\/Double_Density_Commercial.sid"
-        },
-        {
-            "author": "Reyn Ouwehand",
-            "title": "Dutch Breeze: Flip the Flop",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=09h36m29s",
-            "offset": "09:36:29",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/O\/Ouwehand_Reyn\/Dutch_Breeze_Flip_the_Flop.sid"
-        },
-        {
-            "author": "Thomas E. Petersen (Laxity)",
-            "title": "Beastie Boys Intro Music",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=09h38m58s",
-            "offset": "09:38:58",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/L\/Laxity\/Beastie_Boys_Intro_Music.sid"
-        },
-        {
-            "author": "Rob Hubbard",
-            "title": "Synth Sample III",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=09h41m09s",
-            "offset": "09:41:09",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Hubbard_Rob\/Synth_Sample_III.sid"
-        },
-        {
-            "author": "Kim Christensen (Future Freak)",
-            "title": "Rocky Star",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=09h41m54s",
-            "offset": "09:41:54",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/F\/Future_Freak\/Rocky_Star.sid"
-        },
-        {
-            "author": "Thomas E. Petersen (Laxity)",
-            "title": "3545 II",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=09h45m55s",
-            "offset": "09:45:55",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/L\/Laxity\/3545_II.sid"
-        },
-        {
-            "author": "Kim Christensen (Future Freak)",
-            "title": "Cooperation Demo",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=09h49m33s",
-            "offset": "09:49:33",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/F\/Future_Freak\/Cooperation_Demo.sid"
-        },
-        {
-            "author": "Thomas E. Petersen (Laxity)",
-            "title": "Something",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=09h53m24s",
-            "offset": "09:53:24",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/L\/Laxity\/Something.sid"
-        },
-        {
-            "author": "Jeroen Tel",
-            "title": "That's the Way It Is (main)",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=09h54m56s",
-            "offset": "09:54:56",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/T\/Tel_Jeroen\/Thats_the_Way_It_Is_main.sid"
-        },
-        {
-            "author": "Johannes Bjerregaard",
-            "title": "Zoom",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=10h01m54s",
-            "offset": "10:01:54",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/B\/Bjerregaard_Johannes\/Zoom.sid"
-        },
-        {
-            "author": "Johannes Bjerregaard",
-            "title": "Shape",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=10h02m40s",
-            "offset": "10:02:40",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/B\/Bjerregaard_Johannes\/Shape.sid"
-        },
-        {
-            "author": "Jeroen Kimmel (Red)",
-            "title": "Crazy Sample II",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=10h04m35s",
-            "offset": "10:04:35",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/R\/Red_Kimmel_Jeroen\/Crazy_Sample_II.sid"
-        },
-        {
-            "author": "Thomas Mogensen (DRAX)",
-            "title": "UniTechno",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=10h08m17s",
-            "offset": "10:08:17",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/D\/DRAX\/UniTechno.sid"
-        },
-        {
-            "author": "Jeroen Tel",
-            "title": "Gaplus",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=10h11m15s",
-            "offset": "10:11:15",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/T\/Tel_Jeroen\/Gaplus.sid"
-        },
-        {
-            "author": "Charles Deenen",
-            "title": "RWE Intro",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=10h16m54s",
-            "offset": "10:16:54",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/D\/Deenen_Charles\/RWE_Intro.sid"
-        },
-        {
-            "author": "Part 1",
-            "title": "Twistin'88",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=10h18m13s",
-            "offset": "10:18:13",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/L\/Laxity\/Twistin_88-Part_1.sid"
-        },
-        {
-            "author": "Jeroen &amp; Michiel Soede",
-            "title": "Simple Music",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=10h20m52s",
-            "offset": "10:20:52",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/S\/SoedeSoft\/Simple_Music.sid"
-        },
-        {
-            "author": "Thomas E. Petersen (Laxity)",
-            "title": "Laxace",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=10h22m13s",
-            "offset": "10:22:13",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/L\/Laxity\/Laxace.sid"
-        },
-        {
-            "author": "Johannes Bjerregaard",
-            "title": "Eagles",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=10h25m01s",
-            "offset": "10:25:01",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/B\/Bjerregaard_Johannes\/Eagles.sid"
-        },
-        {
-            "author": "Rob Hubbard",
-            "title": "Zoolook",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=10h25m47s",
-            "offset": "10:25:47",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Hubbard_Rob\/Zoolook.sid"
-        },
-        {
-            "author": "Rob Hubbard",
-            "title": "The Master of Magic",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=10h29m57s",
-            "offset": "10:29:57",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Hubbard_Rob\/Master_of_Magic.sid"
-        },
-        {
-            "author": "Jens Blidon",
-            "title": "The Magic Writer (tune 00)",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=10h35m13s",
-            "offset": "10:35:13",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/B\/Blidon_Jens\/Magic_Writer_tune_00.sid"
-        },
-        {
-            "author": "Wojciech Wojtkiewicz (Tracker)",
-            "title": "Saxophone",
-            "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=10h37m10s",
-            "offset": "10:37:10",
-            "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/T\/Tracker\/Saxophone.sid"
-        }
-    ]
+  "songs": [
+    {
+      "author": "Klaus Gr\u00f8ngaard (Link)",
+      "title": "Tune Nr. 2",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h00m00s",
+      "offset": "00:00:00",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/L\/Link\/Tune_Nr_2.sid"
+    },
+    {
+      "author": "Sami Sepp\u00e4 (Rock)",
+      "title": "D.Y.S.P.I.D.C.E. (part 2)",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h01m32s",
+      "offset": "00:01:32",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/R\/Rock\/D_Y_S_P_I_D_C_E_part_2.sid"
+    },
+    {
+      "author": "Markus Schneider (Diflex)",
+      "title": "For Shining 8",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h02m33s",
+      "offset": "00:02:33",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/S\/Schneider_Markus\/For_Shining_8.sid",
+      "favourite": true
+    },
+    {
+      "author": "Markus Schneider &amp; Johann H. Stoete",
+      "title": "The Magic Events",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h03m34s",
+      "offset": "00:03:34",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/S\/Schneider_Markus\/Magic_Events.sid"
+    },
+    {
+      "author": "Jeroen Tel",
+      "title": "Alloyrun",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h04m35s",
+      "offset": "00:04:35",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/T\/Tel_Jeroen\/Alloyrun.sid"
+    },
+    {
+      "author": "Falco Paul",
+      "title": "Spijkerhoek 3",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h05m21s",
+      "offset": "00:05:21",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/0-9\/20CC\/Paul_Falco\/Spijkerhoek_3.sid",
+      "favourite": true
+    },
+    {
+      "author": "Jeroen Tel",
+      "title": "Ikari Union",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h07m28s",
+      "offset": "00:07:28",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/T\/Tel_Jeroen\/Ikari_Union.sid"
+    },
+    {
+      "author": "Edwin van Santen",
+      "title": "Nexion",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h08m44s",
+      "offset": "00:08:44",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/0-9\/20CC\/van_Santen_Edwin\/Nexion.sid",
+      "favourite": true
+    },
+    {
+      "author": "Markus Schneider",
+      "title": "Strike Force Introtune",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h11m32s",
+      "offset": "00:11:32",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/S\/Schneider_Markus\/Strike_Force_Introtune.sid",
+      "favourite": true
+    },
+    {
+      "author": "Steve Barrett",
+      "title": "Super Hang-On",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h12m34s",
+      "offset": "00:12:34",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/B\/Barrett_Steve\/Super_Hang-On.sid"
+    },
+    {
+      "author": "Rob Hubbard",
+      "title": "Delta",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h13m50s",
+      "offset": "00:13:50",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Hubbard_Rob\/Delta.sid"
+    },
+    {
+      "author": "Johannes Bjerregaard",
+      "title": "DMC Demo IV (Tune 2)",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h15m07s",
+      "offset": "00:15:07",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/B\/Bjerregaard_Johannes\/DMC_Demo_IV_tune_2.sid"
+    },
+    {
+      "author": "Henrik Buus Jensen",
+      "title": "Unitrax '88 Killermix",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h18m11s",
+      "offset": "00:18:11",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/J\/Jensen_Henrik\/Unitrax_88_Killermix.sid"
+    },
+    {
+      "author": "Fred Gray",
+      "title": "Hysteria",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h19m27s",
+      "offset": "00:19:27",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/G\/Gray_Fred\/Hysteria.sid",
+      "favourite": true
+    },
+    {
+      "author": "David Whittaker",
+      "title": "Cosmonut",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h22m16s",
+      "offset": "00:22:16",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/W\/Whittaker_David\/Cosmonut.sid"
+    },
+    {
+      "author": "Markus Schneider (Diflex)",
+      "title": "Ahead Crack Intro",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h23m32s",
+      "offset": "00:23:32",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/S\/Schneider_Markus\/Ahead_Crack_Intro.sid"
+    },
+    {
+      "author": "Jonathan Dunn",
+      "title": "Robocop",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h24m21s",
+      "offset": "00:24:21",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/D\/Dunn_Jonathan\/RoboCop.sid",
+      "favourite": true
+    },
+    {
+      "author": "Frank Endler",
+      "title": "Task III",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h25m53s",
+      "offset": "00:25:53",
+      "hvsc": "http:\/\/hvsc.perff.dk\/GAMES\/S-Z\/Task_III.sid"
+    },
+    {
+      "author": "Jens-Christian Huus",
+      "title": "Pheric",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h28m29s",
+      "offset": "00:28:29",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/J\/JCH\/Pheric.sid",
+      "favourite": true
+    },
+    {
+      "author": "Oliver Kl\u00e4wer (Jess)",
+      "title": "K.A.O.S.",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h30m00s",
+      "offset": "00:30:00",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/K\/Klaewer_Oliver\/K_A_O_S.sid"
+    },
+    {
+      "author": "Jeroen Tel",
+      "title": "Noisy Pillars",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h31m02s",
+      "offset": "00:31:02",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/T\/Tel_Jeroen\/Noisy_Pillars.sid",
+      "favourite": true
+    },
+    {
+      "author": "Jeroen Kimmel (Red)",
+      "title": "Think Twice IV",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h32m19s",
+      "offset": "00:32:19",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/R\/Red_Kimmel_Jeroen\/Think_Twice_IV.sid"
+    },
+    {
+      "author": "Markus M\u00fcller",
+      "title": "Coco Intro",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h33m56s",
+      "offset": "00:33:56",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/M\/Mueller_Markus\/Coco_Intro.sid",
+      "favourite": true
+    },
+    {
+      "author": "Rob Hubbard",
+      "title": "ACE II",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h34m56s",
+      "offset": "00:34:56",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Hubbard_Rob\/ACE_II.sid",
+      "favourite": true
+    },
+    {
+      "author": "Fred Gray",
+      "title": "Firefly",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h40m08s",
+      "offset": "00:40:08",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/G\/Gray_Fred\/Firefly.sid"
+    },
+    {
+      "author": "Oliver Kl\u00e4wer",
+      "title": "Maniax",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h41m57s",
+      "offset": "00:41:57",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/K\/Klaewer_Oliver\/Maniax.sid"
+    },
+    {
+      "author": "Jeroen Kimmel",
+      "title": "Radax",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h43m40s",
+      "offset": "00:43:40",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/R\/Red_Kimmel_Jeroen\/Radax.sid"
+    },
+    {
+      "author": "Ben Daglish &amp; Antony Crowther",
+      "title": "Ark Pandora",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h45m41s",
+      "offset": "00:45:41",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/D\/Daglish_Ben\/Ark_Pandora.sid"
+    },
+    {
+      "author": "David Whittaker",
+      "title": "Glider Rider",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h47m25s",
+      "offset": "00:47:25",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/W\/Whittaker_David\/Glider_Rider.sid"
+    },
+    {
+      "author": "David Whittaker",
+      "title": "BraveStarr",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h49m05s",
+      "offset": "00:49:05",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/W\/Whittaker_David\/BraveStarr.sid"
+    },
+    {
+      "author": "Sami Sepp\u00e4 (Rock)",
+      "title": "Contest Demo (part 4)",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h52m36s",
+      "offset": "00:52:36",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/R\/Rock\/Contest_Demo_part_4.sid",
+      "favourite": true
+    },
+    {
+      "author": "Rob Hubbard",
+      "title": "Spellbound",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=00h56m35s",
+      "offset": "00:56:35",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Hubbard_Rob\/Spellbound.sid"
+    },
+    {
+      "author": "Jens-Christian Huus",
+      "title": "Sampler #1",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=01h02m17s",
+      "offset": "01:02:17",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/J\/JCH\/Sampler_1.sid"
+    },
+    {
+      "author": "Rob Hubbard",
+      "title": "One Man &amp; His Droid",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=01h05m49s",
+      "offset": "01:05:49",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Hubbard_Rob\/One_Man_and_His_Droid.sid"
+    },
+    {
+      "author": "Thomas E. Petersen (Laxity)",
+      "title": "The Last Starfighter",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=01h11m37s",
+      "offset": "01:11:37",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/L\/Laxity\/Last_Space_Fighter.sid"
+    },
+    {
+      "author": "David Whittaker",
+      "title": "Speedball",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=01h13m34s",
+      "offset": "01:13:34",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/W\/Whittaker_David\/Speedball.sid"
+    },
+    {
+      "author": "Johannes Bjerregaard",
+      "title": "Omega Force One",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=01h16m04s",
+      "offset": "01:16:04",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/B\/Bjerregaard_Johannes\/Omega_Force_One.sid",
+      "favourite": true
+    },
+    {
+      "author": "Markus M\u00fcller (Superbrain)",
+      "title": "GCF-Intro",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=01h17m15s",
+      "offset": "01:17:15",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/M\/Mueller_Markus\/GCF-Intro.sid",
+      "favourite": true
+    },
+    {
+      "author": "Marcel Donn\u00e9 (Mad)",
+      "title": "Ikari Intro",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=01h18m16s",
+      "offset": "01:18:16",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/M\/Mad_Donne_Marcel\/Ikari_Intro.sid"
+    },
+    {
+      "author": "Kim Christensen (Future Freak)",
+      "title": "Rocky Star (Intro)",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=01h19m17s",
+      "offset": "01:19:17",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/F\/Future_Freak\/Rocky_Star_Intro.sid"
+    },
+    {
+      "author": "J\u00f6rg &amp; Frank Sch\u00e4fers",
+      "title": "Hurling Frootmig",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=01h22m55s",
+      "offset": "01:22:55",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/R\/Rockin_Limited\/Hurling_Frootmig.sid",
+      "favourite": true
+    },
+    {
+      "author": "Jeroen Tel",
+      "title": "Ice Age",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=01h25m23s",
+      "offset": "01:25:23",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/T\/Tel_Jeroen\/Ice_Age.sid",
+      "favourite": true
+    },
+    {
+      "author": "Jonathan Dunn",
+      "title": "Basket Master",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=01h31m02s",
+      "offset": "01:31:02",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/D\/Dunn_Jonathan\/Basket_Master.sid"
+    },
+    {
+      "author": "Thomas E. Petersen (Laxity)",
+      "title": "Jewels",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=01h32m10s",
+      "offset": "01:32:10",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/L\/Laxity\/Jewels.sid"
+    },
+    {
+      "author": "Jens-Christian Huus",
+      "title": "Beaty intro",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=01h36m56s",
+      "offset": "01:36:56",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/J\/JCH\/Non_JCH_Newplayer\/Beaty_intro.sid"
+    },
+    {
+      "author": "Marcel Donn\u00e9 (Mad)",
+      "title": "Amyloid",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=01h37m42s",
+      "offset": "01:37:42",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/M\/Mad_Donne_Marcel\/Amyloid.sid",
+      "favourite": true
+    },
+    {
+      "author": "Jeroen Kimmel",
+      "title": "Playboy, the Game",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=01h42m44s",
+      "offset": "01:42:44",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/R\/Red_Kimmel_Jeroen\/Playboy_the_Game.sid"
+    },
+    {
+      "author": "Sami Sepp\u00e4 (Rock)",
+      "title": "Contest Demo (part 2)",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=01h43m34s",
+      "offset": "01:43:34",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/R\/Rock\/Contest_Demo_part_2.sid"
+    },
+    {
+      "author": "Edwin van Santen",
+      "title": "PCW-Tune '88",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=01h45m18s",
+      "offset": "01:45:18",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/0-9\/20CC\/van_Santen_Edwin\/PCW-Tune_88.sid",
+      "favourite": true
+    },
+    {
+      "author": "David Whittaker",
+      "title": "Enduro Racer",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=01h49m07s",
+      "offset": "01:49:07",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/W\/Whittaker_David\/Enduro_Racer.sid"
+    },
+    {
+      "author": "Rob Hubbard",
+      "title": "Phantoms of the Asteroid",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=01h51m57s",
+      "offset": "01:51:57",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Hubbard_Rob\/Phantoms_of_the_Asteroid.sid"
+    },
+    {
+      "author": "Oliver Kl\u00e4wer (Jess)",
+      "title": "K.A.O.S.",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=01h56m13s",
+      "offset": "01:56:13",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/K\/Klaewer_Oliver\/K_A_O_S.sid"
+    },
+    {
+      "author": "Martin Galway",
+      "title": "Comic Bakery",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=02h00m38s",
+      "offset": "02:00:38",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/G\/Galway_Martin\/Comic_Bakery.sid"
+    },
+    {
+      "author": "Jeroen Kimmel (Red)",
+      "title": "Think Twice III",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=02h03m48s",
+      "offset": "02:03:48",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/R\/Red_Kimmel_Jeroen\/Think_Twice_III.sid"
+    },
+    {
+      "author": "Wally Beben",
+      "title": "R.I.S.K.",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=02h11m56s",
+      "offset": "02:11:56",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/B\/Beben_Wally\/R_I_S_K.sid"
+    },
+    {
+      "author": "Johannes Bjerregaard",
+      "title": "M.A.C.H.",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=02h15m10s",
+      "offset": "02:15:10",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/B\/Bjerregaard_Johannes\/M_A_C_H.sid"
+    },
+    {
+      "author": "Antony Crowther",
+      "title": "R1D1",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=02h18m14s",
+      "offset": "02:18:14",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/C\/Crowther_Antony\/R1D1.sid",
+      "favourite": true
+    },
+    {
+      "author": "Charles Deenen",
+      "title": "Give It a Try",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=02h20m34s",
+      "offset": "02:20:34",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/D\/Deenen_Charles\/Give_It_a_Try.sid"
+    },
+    {
+      "author": "Neil Baldwin",
+      "title": "Ala",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=02h22m31s",
+      "offset": "02:22:31",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/B\/Baldwin_Neil\/Ala.sid"
+    },
+    {
+      "author": "Rob Hubbard",
+      "title": "Thrust",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=02h25m17s",
+      "offset": "02:25:17",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Hubbard_Rob\/Thrust.sid"
+    },
+    {
+      "author": "Ben Daglish",
+      "title": "Masters of the Universe",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=02h31m53s",
+      "offset": "02:31:53",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/D\/Daglish_Ben\/Masters_of_the_Universe.sid"
+    },
+    {
+      "author": "Rob Hubbard",
+      "title": "Thanatos",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=02h33m10s",
+      "offset": "02:33:10",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Hubbard_Rob\/Thanatos.sid"
+    },
+    {
+      "author": "Adam Gilmore",
+      "title": "Draconus",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=02h34m08s",
+      "offset": "02:34:08",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/G\/Gilmore_Adam\/Draconus.sid"
+    },
+    {
+      "author": "Martin Galway",
+      "title": "Wizball",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=02h37m38s",
+      "offset": "02:37:38",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/G\/Galway_Martin\/Wizball.sid",
+      "favourite": true
+    },
+    {
+      "author": "Ben Daglish",
+      "title": "Future Knight",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=02h41m11s",
+      "offset": "02:41:11",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/D\/Daglish_Ben\/Future_Knight.sid"
+    },
+    {
+      "author": "Matt Gray",
+      "title": "Driller",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=02h44m10s",
+      "offset": "02:44:10",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/G\/Gray_Matt\/Driller.sid"
+    },
+    {
+      "author": "Martin Galway",
+      "title": "Green Beret",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=02h54m23s",
+      "offset": "02:54:23",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/G\/Galway_Martin\/Green_Beret.sid",
+      "favourite": true
+    },
+    {
+      "author": "Martin Galway",
+      "title": "Miami Vice",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=02h58m10s",
+      "offset": "02:58:10",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/G\/Galway_Martin\/Miami_Vice.sid"
+    },
+    {
+      "author": "Jeroen Tel",
+      "title": "Stormlord",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=03h09m41s",
+      "offset": "03:09:41",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/B\/Bjerregaard_Johannes\/Stormlord.sid",
+      "favourite": true
+    },
+    {
+      "author": "Martin Galway",
+      "title": "Arkanoid",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=03h15m49s",
+      "offset": "03:15:49",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/G\/Galway_Martin\/Arkanoid.sid"
+    },
+    {
+      "author": "Rob Hubbard",
+      "title": "I-Ball",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=03h18m06s",
+      "offset": "03:18:06",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Hubbard_Rob\/I-Ball.sid"
+    },
+    {
+      "author": "Jeroen Kimmel (Red)",
+      "title": "Traz",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=03h23m04s",
+      "offset": "03:23:04",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/R\/Red_Kimmel_Jeroen\/Traz.sid"
+    },
+    {
+      "author": "Martin Galway",
+      "title": "Combat School",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=03h26m59s",
+      "offset": "03:26:59",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/G\/Galway_Martin\/Combat_School.sid"
+    },
+    {
+      "author": "Chris H\u00fclsbeck",
+      "title": "Starball",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=03h29m16s",
+      "offset": "03:29:16",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Huelsbeck_Chris\/Starball.sid"
+    },
+    {
+      "author": "Johannes Bjerregaard",
+      "title": "Fourth Dimension",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=03h34m52s",
+      "offset": "03:34:52",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/B\/Bjerregaard_Johannes\/Fourth_Dimension.sid"
+    },
+    {
+      "author": "Rob Hubbard",
+      "title": "Ricochet",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=03h40m06s",
+      "offset": "03:40:06",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Hubbard_Rob\/Ricochet.sid"
+    },
+    {
+      "author": "Jeroen Kimmel (Red)",
+      "title": "Crazy Sample II (intro)",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=03h43m27s",
+      "offset": "03:43:27",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/R\/Red_Kimmel_Jeroen\/Crazy_Sample_II_intro.sid"
+    },
+    {
+      "author": "Rob Hubbard",
+      "title": "Skate or Die (intro)",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=03h44m17s",
+      "offset": "03:44:17",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Hubbard_Rob\/Skate_or_Die_intro.sid",
+      "favourite": true
+    },
+    {
+      "author": "Matt Gray",
+      "title": "Bangkok Knights Loader",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=03h48m23s",
+      "offset": "03:48:23",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/G\/Gray_Matt\/Bangkok_Knights_Loader.sid"
+    },
+    {
+      "author": "Karl &amp; Hannes Sommer",
+      "title": "Lions of the Universe",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=03h53m06s",
+      "offset": "03:53:06",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/M\/MC_Lord\/Lions_of_the_Universe.sid"
+    },
+    {
+      "author": "Peter Clarke",
+      "title": "Ocean Loader 3",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=03h54m53s",
+      "offset": "03:54:53",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/C\/Clarke_Peter\/Ocean_Loader_3.sid",
+      "favourite": true
+    },
+    {
+      "author": "Rob Hubbard",
+      "title": "Monty on the Run",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=03h57m41s",
+      "offset": "03:57:41",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Hubbard_Rob\/Monty_on_the_Run.sid"
+    },
+    {
+      "author": "Dave Lee",
+      "title": "Erebus",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=04h03m30s",
+      "offset": "04:03:30",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/L\/Lee_Dave\/Erebus.sid"
+    },
+    {
+      "author": "Kim Christensen (Future Freak)",
+      "title": "Dexion Demo",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=04h04m31s",
+      "offset": "04:04:31",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/F\/Future_Freak\/Dexion_Demo.sid"
+    },
+    {
+      "author": "M. Claessens (The Dream Maker)",
+      "title": "Crocket's Mix",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=04h08m28s",
+      "offset": "04:08:28",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/T\/The_Dream_Maker\/Crockets_Mix.sid"
+    },
+    {
+      "author": "Jeroen Tel",
+      "title": "Supremacy",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=04h14m14s",
+      "offset": "04:14:14",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/T\/Tel_Jeroen\/Supremacy.sid",
+      "favourite": true
+    },
+    {
+      "author": "Markus Schneider",
+      "title": "Kaos",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=04h18m04s",
+      "offset": "04:18:04",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/S\/Schneider_Markus\/TLI_Intro_1.sid",
+      "favourite": true
+    },
+    {
+      "author": "Markus M\u00fcller (Hayes)",
+      "title": "The Cat",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=04h20m29s",
+      "offset": "04:20:29",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/M\/Mueller_Markus\/Cat.sid",
+      "favourite": true
+    },
+    {
+      "author": "Joachim Wijnhoven",
+      "title": "Shadow of the Beast (demo)",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=04h23m56s",
+      "offset": "04:23:56",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/W\/Wijnhoven_Joachim\/Shadow_of_the_Beast_demo.sid",
+      "favourite": true
+    },
+    {
+      "author": "Jeroen Soede",
+      "title": "Snik",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=04h25m55s",
+      "offset": "04:25:55",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/S\/SoedeSoft\/Soede_Jeroen\/Snik.sid"
+    },
+    {
+      "author": "Jeroen Tel",
+      "title": "Alloyrun",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=04h27m13s",
+      "offset": "04:27:13",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/T\/Tel_Jeroen\/Alloyrun.sid",
+      "favourite": true
+    },
+    {
+      "author": "Charles Deenen",
+      "title": "Zamzara",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=04h33m59s",
+      "offset": "04:33:59",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/D\/Deenen_Charles\/Zamzara.sid",
+      "favourite": true
+    },
+    {
+      "author": "Chris H\u00fclsbeck",
+      "title": "R-Type",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=04h39m29s",
+      "offset": "04:39:29",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Huelsbeck_Chris\/R-Type.sid",
+      "favourite": true
+    },
+    {
+      "author": "Thomas Petersen &amp; K. Christensen ",
+      "title": "DNA Warrior",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=04h41m39s",
+      "offset": "04:41:39",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/L\/Laxity\/DNA_Warrior.sid",
+      "favourite": true
+    },
+    {
+      "author": "Markus Schneider &amp; Jens Blidon",
+      "title": "Platou",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=04h46m02s",
+      "offset": "04:46:02",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/S\/Schneider_Markus\/Platou.sid",
+      "favourite": true
+    },
+    {
+      "author": "Marcel Donn\u00e9 (Mad)",
+      "title": "Amyloid",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=04h47m27s",
+      "offset": "04:47:27",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/M\/Mad_Donne_Marcel\/Amyloid.sid"
+    },
+    {
+      "author": "Rob Hubbard",
+      "title": "Commando",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=04h48m35s",
+      "offset": "04:48:35",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Hubbard_Rob\/Commando.sid",
+      "favourite": true
+    },
+    {
+      "author": "Jeroen Tel",
+      "title": "Cybernoid",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=04h52m30s",
+      "offset": "04:52:30",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/T\/Tel_Jeroen\/Cybernoid.sid",
+      "favourite": true
+    },
+    {
+      "author": "Jeroen Soede",
+      "title": "Airwolf Title",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=04h59m08s",
+      "offset": "04:59:08",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/S\/SoedeSoft\/Soede_Jeroen\/Airwolf_Title.sid",
+      "favourite": true
+    },
+    {
+      "author": "Thomas E. Petersen (Laxity)",
+      "title": "Crosswords",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=05h00m12s",
+      "offset": "05:00:12",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/L\/Laxity\/Crosswords.sid",
+      "favourite": true
+    },
+    {
+      "author": "Karl Sommer (MC Lord)",
+      "title": "CosMail (tune 02)",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=05h06m22s",
+      "offset": "05:06:22",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/M\/MC_Lord\/CosMail_tune_02.sid"
+    },
+    {
+      "author": "Johannes Bjerregaard",
+      "title": "Namnam Special",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=05h08m30s",
+      "offset": "05:08:30",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/B\/Bjerregaard_Johannes\/Namnam_Special.sid"
+    },
+    {
+      "author": "Jens-Christian Huus",
+      "title": "Hoppin'",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=05h10m39s",
+      "offset": "05:10:39",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/J\/JCH\/Hoppin.sid"
+    },
+    {
+      "author": "Ward Selles",
+      "title": "Jippie",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=05h11m19s",
+      "offset": "05:11:19",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/S\/Selles_Ward\/Jippie.sid"
+    },
+    {
+      "author": "Marcel Donn\u00e9 (Mad)",
+      "title": "Scorpion",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=05h12m26s",
+      "offset": "05:12:26",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/M\/Mad_Donne_Marcel\/Scorpion.sid"
+    },
+    {
+      "author": "Thomas E. Petersen (Laxity)",
+      "title": "Nefarious",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=05h15m29s",
+      "offset": "05:15:29",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/L\/Laxity\/Nefarious.sid",
+      "favourite": true
+    },
+    {
+      "author": "Jeroen Tel",
+      "title": "Battle Valley",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=05h19m59s",
+      "offset": "05:19:59",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/T\/Tel_Jeroen\/Battle_Valley.sid"
+    },
+    {
+      "author": "David Whittaker",
+      "title": "Panther",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=05h26m58s",
+      "offset": "05:26:58",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/W\/Whittaker_David\/Panther.sid"
+    },
+    {
+      "author": "Jonathan Dunn",
+      "title": "Platoon",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=05h29m52s",
+      "offset": "05:29:52",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/D\/Dunn_Jonathan\/Platoon.sid"
+    },
+    {
+      "author": "Neil Baldwin",
+      "title": "Shadow Skimmer",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=05h31m54s",
+      "offset": "05:31:54",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/B\/Baldwin_Neil\/Shadow_Skimmer.sid"
+    },
+    {
+      "author": "Jason C. Brooke",
+      "title": "Out Run",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=05h35m19s",
+      "offset": "05:35:19",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/B\/Brooke_Jason\/Out_Run.sid",
+      "favourite": true
+    },
+    {
+      "author": "Neil Baldwin (Demon)",
+      "title": "Another Tune for Joanna",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=05h37m15s",
+      "offset": "05:37:15",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/B\/Baldwin_Neil\/Another_Tune_for_Joanna.sid"
+    },
+    {
+      "author": "Jens-Christian Huus",
+      "title": "Can't Stop",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=05h40m19s",
+      "offset": "05:40:19",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/J\/JCH\/Non_JCH_Newplayer\/Cant_Stop.sid"
+    },
+    {
+      "author": "Jeroen Soede",
+      "title": "Funky Stuff",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=05h41m20s",
+      "offset": "05:41:20",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/S\/SoedeSoft\/Soede_Jeroen\/Funky_Stuff.sid",
+      "favourite": true
+    },
+    {
+      "author": "Charles Deenen",
+      "title": "That's the Way It Is (intro)",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=05h43m11s",
+      "offset": "05:43:11",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/D\/Deenen_Charles\/Thats_the_Way_It_Is_intro.sid",
+      "favourite": true
+    },
+    {
+      "author": "Part 2",
+      "title": "Twistin'88",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=05h50m45s",
+      "offset": "05:50:45",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/L\/Laxity\/Twistin_88-Part_2.sid",
+      "favourite": true
+    },
+    {
+      "author": "Thomas Mogensen (DRAX)",
+      "title": "Silence",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=05h54m17s",
+      "offset": "05:54:17",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/D\/DRAX\/Silence.sid",
+      "favourite": true
+    },
+    {
+      "author": "Klaus Gr\u00f8ngaard (Link)",
+      "title": "Take Over",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=05h57m06s",
+      "offset": "05:57:06",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/L\/Link\/Take_Over.sid",
+      "favourite": true
+    },
+    {
+      "author": "Jens-Christian Huus",
+      "title": "Hollow+",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=05h58m14s",
+      "offset": "05:58:14",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/J\/JCH\/Hollow_plus.sid",
+      "favourite": true
+    },
+    {
+      "author": "Jeroen Tel",
+      "title": "Kinetix",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=05h59m16s",
+      "offset": "05:59:16",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/T\/Tel_Jeroen\/Kinetix.sid",
+      "favourite": true
+    },
+    {
+      "author": "Johannes Bjerregaard",
+      "title": "Street Cred Boxing",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=06h01m52s",
+      "offset": "06:01:52",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/B\/Bjerregaard_Johannes\/Street_Cred_Boxing.sid",
+      "favourite": true
+    },
+    {
+      "author": "Michael Hendriks",
+      "title": "Dynamic Range",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=06h05m27s",
+      "offset": "06:05:27",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/F\/FAME\/Hendriks_Michael\/Dynamic_Range.sid"
+    },
+    {
+      "author": "Ben Daglish",
+      "title": "Krakout",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=06h07m38s",
+      "offset": "06:07:38",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/D\/Daglish_Ben\/Krakout.sid"
+    },
+    {
+      "author": "Neil Baldwin (Demon)",
+      "title": "Garfield",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=06h10m24s",
+      "offset": "06:10:24",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/B\/Baldwin_Neil\/Garfield.sid"
+    },
+    {
+      "author": "Thomas Mogensen (DRAX)",
+      "title": "Nibbly'92",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=06h14m22s",
+      "offset": "06:14:22",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/D\/DRAX\/Nibbly_92.sid",
+      "favourite": true
+    },
+    {
+      "author": "The Legend Continues",
+      "title": "Fist II",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=06h17m13s",
+      "offset": "06:17:13",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/B\/Brennan_Neil\/Fist_II-The_Legend_Continues.sid"
+    },
+    {
+      "author": "David M. Hanlon",
+      "title": "Enlightenment: Druid II",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=06h18m14s",
+      "offset": "06:18:14",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Hanlon_David\/Enlightenment_Druid_II.sid"
+    },
+    {
+      "author": "Anthony Lees",
+      "title": "The Last Ninja",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=06h19m31s",
+      "offset": "06:19:31",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/D\/Daglish_Ben\/Last_Ninja.sid"
+    },
+    {
+      "author": "Martin Walker",
+      "title": "Armalyte",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=06h24m08s",
+      "offset": "06:24:08",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/W\/Walker_Martin\/Armalyte.sid",
+      "favourite": true
+    },
+    {
+      "author": "Rob Hubbard &amp; Ben Daglish",
+      "title": "Auf Wiedersehen Monty",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=06h27m40s",
+      "offset": "06:27:40",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Hubbard_Rob\/Auf_Wiedersehen_Monty.sid"
+    },
+    {
+      "author": "Rob Hubbard",
+      "title": "The last V8",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=06h33m39s",
+      "offset": "06:33:39",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Hubbard_Rob\/Last_V8.sid",
+      "favourite": true
+    },
+    {
+      "author": "Matt Gray",
+      "title": "Last Ninja 2",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=06h35m58s",
+      "offset": "06:35:58",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/G\/Gray_Matt\/Last_Ninja_2.sid",
+      "favourite": true
+    },
+    {
+      "author": "Ben Daglish",
+      "title": "Bulldog",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=06h41m34s",
+      "offset": "06:41:34",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/D\/Daglish_Ben\/Bulldog.sid"
+    },
+    {
+      "author": "David Whittaker",
+      "title": "Poltergeist",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=06h44m05s",
+      "offset": "06:44:05",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/W\/Whittaker_David\/Poltergeist.sid"
+    },
+    {
+      "author": "Johannes Bjerregaard",
+      "title": "Eagles",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=06h48m38s",
+      "offset": "06:48:38",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/B\/Bjerregaard_Johannes\/Eagles.sid"
+    },
+    {
+      "author": "Chris H\u00fclsbeck",
+      "title": "The Great Giana Sisters",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=06h49m34s",
+      "offset": "06:49:34",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Huelsbeck_Chris\/Great_Giana_Sisters.sid",
+      "favourite": true
+    },
+    {
+      "author": "Mark Cooksey",
+      "title": "Ghosts'n Goblins",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=06h50m47s",
+      "offset": "06:50:47",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/C\/Cooksey_Mark\/Ghosts_n_Goblins.sid",
+      "favourite": true
+    },
+    {
+      "author": "Rob Hubbard",
+      "title": "Crazy Comets",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=06h54m37s",
+      "offset": "06:54:37",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Hubbard_Rob\/Crazy_Comets.sid"
+    },
+    {
+      "author": "Matt Gray",
+      "title": "Hunter's Moon",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=06h59m13s",
+      "offset": "06:59:13",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/G\/Gray_Matt\/Hunters_Moon.sid"
+    },
+    {
+      "author": "Jeroen Tel",
+      "title": "Scout",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=07h00m03s",
+      "offset": "07:00:03",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/T\/Tel_Jeroen\/Scout.sid",
+      "favourite": true
+    },
+    {
+      "author": "Michael Hendriks",
+      "title": "A Little Sample",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=07h04m08s",
+      "offset": "07:04:08",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/F\/FAME\/Hendriks_Michael\/A_Little_Sample.sid",
+      "favourite": true
+    },
+    {
+      "author": "Thomas E. Petersen (Laxity)",
+      "title": "Ikari Intro Song",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=07h06m48s",
+      "offset": "07:06:48",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/L\/Laxity\/Ikari_Intro_Song.sid",
+      "favourite": true
+    },
+    {
+      "author": "Jeroen Tel",
+      "title": "S-Express",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=07h07m34s",
+      "offset": "07:07:34",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/T\/Tel_Jeroen\/S-Express.sid",
+      "favourite": true
+    },
+    {
+      "author": "Ben Daglish",
+      "title": "Footballer of the Year",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=07h09m22s",
+      "offset": "07:09:22",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/D\/Daglish_Ben\/Footballer_of_the_Year.sid"
+    },
+    {
+      "author": "Edwin van Santen",
+      "title": "Layla Mix",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=07h11m24s",
+      "offset": "07:11:24",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/0-9\/20CC\/van_Santen_Edwin\/Layla_Mix.sid"
+    },
+    {
+      "author": "Jeroen Soede",
+      "title": "Artax",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=07h13m15s",
+      "offset": "07:13:15",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/S\/SoedeSoft\/Soede_Jeroen\/Artax.sid"
+    },
+    {
+      "author": "Jeroen Tel",
+      "title": "Savage",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=07h15m53s",
+      "offset": "07:15:53",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/T\/Tel_Jeroen\/Savage.sid",
+      "favourite": true
+    },
+    {
+      "author": "Markus Schneider &amp; Jens Blidon",
+      "title": "Platou",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=07h21m53s",
+      "offset": "07:21:53",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/S\/Schneider_Markus\/Platou.sid",
+      "favourite": true
+    },
+    {
+      "author": "Thomas E. Petersen (Laxity)",
+      "title": "Ikari Intro",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=07h25m28s",
+      "offset": "07:25:28",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/L\/Laxity\/Ikari_Intro.sid",
+      "favourite": true
+    },
+    {
+      "author": "Jeroen Tel",
+      "title": "Hawkeye",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=07h26m53s",
+      "offset": "07:26:53",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/T\/Tel_Jeroen\/Hawkeye.sid",
+      "favourite": true
+    },
+    {
+      "author": "Reyn Ouwehand",
+      "title": "Last Ninja 3",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=07h33m16s",
+      "offset": "07:33:16",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/O\/Ouwehand_Reyn\/Last_Ninja_3.sid",
+      "favourite": true
+    },
+    {
+      "author": "Jonathan Dunn",
+      "title": "Platoon",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=07h38m02s",
+      "offset": "07:38:02",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/D\/Dunn_Jonathan\/Platoon.sid"
+    },
+    {
+      "author": "Matt Gray",
+      "title": "Last Ninja 2",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=07h41m11s",
+      "offset": "07:41:11",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/G\/Gray_Matt\/Last_Ninja_2.sid",
+      "favourite": true
+    },
+    {
+      "author": "Jeroen Soede",
+      "title": "MacGyver Title",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=07h48m57s",
+      "offset": "07:48:57",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/S\/SoedeSoft\/Soede_Jeroen\/MacGyver_Title.sid"
+    },
+    {
+      "author": "Adam Gilmore",
+      "title": "The Corporation",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=07h50m21s",
+      "offset": "07:50:21",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/G\/Gilmore_Adam\/Corporation.sid",
+      "favourite": true
+    },
+    {
+      "author": "Rob Hubbard",
+      "title": "Zoids",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=07h52m29s",
+      "offset": "07:52:29",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Hubbard_Rob\/Zoids.sid"
+    },
+    {
+      "author": "Henrik Buus Jensen",
+      "title": "Maximum Overdrive II (intro)",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=07h57m09s",
+      "offset": "07:57:09",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/J\/Jensen_Henrik\/Maximum_Overdrive_II_intro.sid"
+    },
+    {
+      "author": "Matt Gray",
+      "title": "Professional BMX Simulator",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=08h00m32s",
+      "offset": "08:00:32",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/G\/Gray_Matt\/Professional_BMX_Simulator.sid"
+    },
+    {
+      "author": "Jeroen Kimmel (Red)",
+      "title": "Rhaa Lovely II",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=08h01m40s",
+      "offset": "08:01:40",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/R\/Red_Kimmel_Jeroen\/Rhaa_Lovely_II.sid"
+    },
+    {
+      "author": "Ward Selles",
+      "title": "Spriffs II",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=08h04m44s",
+      "offset": "08:04:44",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/S\/Selles_Ward\/Spriffs_II.sid"
+    },
+    {
+      "author": "Thomas E. Petersen (Laxity)",
+      "title": "Public Enemy",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=08h06m16s",
+      "offset": "08:06:16",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/L\/Laxity\/Public_Enemy.sid"
+    },
+    {
+      "author": "Jason C. Brooke",
+      "title": "Out Run",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=08h07m10s",
+      "offset": "08:07:10",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/B\/Brooke_Jason\/Out_Run.sid"
+    },
+    {
+      "author": "Neil Brennan",
+      "title": "The Way of the Exploding Fist",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=08h10m21s",
+      "offset": "08:10:21",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/B\/Brennan_Neil\/Way_of_the_Exploding_Fist.sid"
+    },
+    {
+      "author": "Jeroen Kimmel (Red)",
+      "title": "Game Music 3",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=08h11m45s",
+      "offset": "08:11:45",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/R\/Red_Kimmel_Jeroen\/Game_Music_3.sid"
+    },
+    {
+      "author": "Jonathan Dunn",
+      "title": "Revenge of Doh",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=08h16m52s",
+      "offset": "08:16:52",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/D\/Dunn_Jonathan\/Revenge_of_Doh.sid"
+    },
+    {
+      "author": "Rob Hubbard",
+      "title": "International Karate",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=08h18m55s",
+      "offset": "08:18:55",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Hubbard_Rob\/International_Karate.sid",
+      "favourite": true
+    },
+    {
+      "author": "Ben Daglish",
+      "title": "Firelord",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=08h29m37s",
+      "offset": "08:29:37",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/D\/Daglish_Ben\/Firelord.sid"
+    },
+    {
+      "author": "Richard Joseph",
+      "title": "Defender of the Crown",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=08h29m59s",
+      "offset": "08:29:59",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/J\/Joseph_Richard\/Defender_of_the_Crown.sid",
+      "favourite": true
+    },
+    {
+      "author": "Jeroen Tel",
+      "title": "Robocop 3",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=08h30m59s",
+      "offset": "08:30:59",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/T\/Tel_Jeroen\/RoboCop_3.sid",
+      "favourite": true
+    },
+    {
+      "author": "Charles Deenen",
+      "title": "Double Dragon",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=08h34m54s",
+      "offset": "08:34:54",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/D\/Deenen_Charles\/Double_Dragon.sid",
+      "favourite": true
+    },
+    {
+      "author": "Jeroen Tel",
+      "title": "Cybernoid II",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=08h38m06s",
+      "offset": "08:38:06",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/T\/Tel_Jeroen\/Cybernoid_II.sid",
+      "favourite": true
+    },
+    {
+      "author": "Charles Deenen",
+      "title": "Cool Tune",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=08h43m51s",
+      "offset": "08:43:51",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/D\/Deenen_Charles\/Cool_Tune.sid"
+    },
+    {
+      "author": "Rob Hubbard",
+      "title": "Warhawk",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=08h44m40s",
+      "offset": "08:44:40",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Hubbard_Rob\/Warhawk.sid"
+    },
+    {
+      "author": "Jeroen Kimmel",
+      "title": "The Big Deal",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=08h49m03s",
+      "offset": "08:49:03",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/R\/Red_Kimmel_Jeroen\/Big_Deal.sid"
+    },
+    {
+      "author": "Ben Daglish",
+      "title": "The Last Ninja",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=08h52m13s",
+      "offset": "08:52:13",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/D\/Daglish_Ben\/Last_Ninja.sid",
+      "favourite": true
+    },
+    {
+      "author": "Rob Hubbard",
+      "title": "Nemesis the Warlock",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=08h56m10s",
+      "offset": "08:56:10",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Hubbard_Rob\/Nemesis_the_Warlock.sid",
+      "favourite": true
+    },
+    {
+      "author": "Chris H\u00fclsbeck",
+      "title": "Grand Monster Slam",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=09h03m02s",
+      "offset": "09:03:02",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Huelsbeck_Chris\/Grand_Monster_Slam.sid"
+    },
+    {
+      "author": "Jeroen Tel",
+      "title": "Hawkeye",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=09h06m39s",
+      "offset": "09:06:39",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/T\/Tel_Jeroen\/Hawkeye.sid",
+      "favourite": true
+    },
+    {
+      "author": "Adam Gilmore",
+      "title": "Zybex",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=09h07m41s",
+      "offset": "09:07:41",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/G\/Gilmore_Adam\/Zybex.sid"
+    },
+    {
+      "author": "Rob Hubbard",
+      "title": "Lightforce",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=09h10m06s",
+      "offset": "09:10:06",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Hubbard_Rob\/Lightforce.sid",
+      "favourite": true
+    },
+    {
+      "author": "Ben Daglish",
+      "title": "Cobra",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=09h17m10s",
+      "offset": "09:17:10",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/D\/Daglish_Ben\/Cobra.sid",
+      "favourite": true
+    },
+    {
+      "author": "Jeroen Soede",
+      "title": "TrailMix (intro)",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=09h20m16s",
+      "offset": "09:20:16",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/S\/SoedeSoft\/Soede_Jeroen\/TrailMix_intro.sid",
+      "favourite": true
+    },
+    {
+      "author": "David Whittaker",
+      "title": "Storm",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=09h21m42s",
+      "offset": "09:21:42",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/W\/Whittaker_David\/Storm.sid"
+    },
+    {
+      "author": "Charles Deenen &amp; Jeroen Tel",
+      "title": "Soldier of Light",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=09h22m46s",
+      "offset": "09:22:46",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/D\/Deenen_Charles\/Soldier_of_Light.sid",
+      "favourite": true
+    },
+    {
+      "author": "Martin Galway",
+      "title": "Rambo: First Blood Part II",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=09h23m48s",
+      "offset": "09:23:48",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/G\/Galway_Martin\/Rambo_First_Blood_Part_II.sid"
+    },
+    {
+      "author": "Rob Hubbard",
+      "title": "Sanxion",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=09h26m51s",
+      "offset": "09:26:51",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Hubbard_Rob\/Sanxion.sid"
+    },
+    {
+      "author": "Markus Schneider",
+      "title": "Double Density Commercial",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=09h32m24s",
+      "offset": "09:32:24",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/S\/Schneider_Markus\/Double_Density_Commercial.sid",
+      "favourite": true
+    },
+    {
+      "author": "Reyn Ouwehand",
+      "title": "Dutch Breeze: Flip the Flop",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=09h36m29s",
+      "offset": "09:36:29",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/O\/Ouwehand_Reyn\/Dutch_Breeze_Flip_the_Flop.sid",
+      "favourite": true
+    },
+    {
+      "author": "Thomas E. Petersen (Laxity)",
+      "title": "Beastie Boys Intro Music",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=09h38m58s",
+      "offset": "09:38:58",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/L\/Laxity\/Beastie_Boys_Intro_Music.sid",
+      "favourite": true
+    },
+    {
+      "author": "Rob Hubbard",
+      "title": "Synth Sample III",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=09h41m09s",
+      "offset": "09:41:09",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Hubbard_Rob\/Synth_Sample_III.sid"
+    },
+    {
+      "author": "Kim Christensen (Future Freak)",
+      "title": "Rocky Star",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=09h41m54s",
+      "offset": "09:41:54",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/F\/Future_Freak\/Rocky_Star.sid"
+    },
+    {
+      "author": "Thomas E. Petersen (Laxity)",
+      "title": "3545 II",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=09h45m55s",
+      "offset": "09:45:55",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/L\/Laxity\/3545_II.sid"
+    },
+    {
+      "author": "Kim Christensen (Future Freak)",
+      "title": "Cooperation Demo",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=09h49m33s",
+      "offset": "09:49:33",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/F\/Future_Freak\/Cooperation_Demo.sid",
+      "favourite": true
+    },
+    {
+      "author": "Thomas E. Petersen (Laxity)",
+      "title": "Something",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=09h53m24s",
+      "offset": "09:53:24",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/L\/Laxity\/Something.sid",
+      "favourite": true
+    },
+    {
+      "author": "Jeroen Tel",
+      "title": "That's the Way It Is (main)",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=09h54m56s",
+      "offset": "09:54:56",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/T\/Tel_Jeroen\/Thats_the_Way_It_Is_main.sid",
+      "favourite": true
+    },
+    {
+      "author": "Johannes Bjerregaard",
+      "title": "Zoom",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=10h01m54s",
+      "offset": "10:01:54",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/B\/Bjerregaard_Johannes\/Zoom.sid"
+    },
+    {
+      "author": "Johannes Bjerregaard",
+      "title": "Shape",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=10h02m40s",
+      "offset": "10:02:40",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/B\/Bjerregaard_Johannes\/Shape.sid",
+      "favourite": true
+    },
+    {
+      "author": "Jeroen Kimmel (Red)",
+      "title": "Crazy Sample II",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=10h04m35s",
+      "offset": "10:04:35",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/R\/Red_Kimmel_Jeroen\/Crazy_Sample_II.sid"
+    },
+    {
+      "author": "Thomas Mogensen (DRAX)",
+      "title": "UniTechno",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=10h08m17s",
+      "offset": "10:08:17",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/D\/DRAX\/UniTechno.sid",
+      "favourite": true
+    },
+    {
+      "author": "Jeroen Tel",
+      "title": "Gaplus",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=10h11m15s",
+      "offset": "10:11:15",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/T\/Tel_Jeroen\/Gaplus.sid",
+      "favourite": true
+    },
+    {
+      "author": "Charles Deenen",
+      "title": "RWE Intro",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=10h16m54s",
+      "offset": "10:16:54",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/D\/Deenen_Charles\/RWE_Intro.sid",
+      "favourite": true
+    },
+    {
+      "author": "Part 1",
+      "title": "Twistin'88",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=10h18m13s",
+      "offset": "10:18:13",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/L\/Laxity\/Twistin_88-Part_1.sid"
+    },
+    {
+      "author": "Jeroen &amp; Michiel Soede",
+      "title": "Simple Music",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=10h20m52s",
+      "offset": "10:20:52",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/S\/SoedeSoft\/Simple_Music.sid"
+    },
+    {
+      "author": "Thomas E. Petersen (Laxity)",
+      "title": "Laxace",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=10h22m13s",
+      "offset": "10:22:13",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/L\/Laxity\/Laxace.sid",
+      "favourite": true
+    },
+    {
+      "author": "Johannes Bjerregaard",
+      "title": "Eagles",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=10h25m01s",
+      "offset": "10:25:01",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/B\/Bjerregaard_Johannes\/Eagles.sid"
+    },
+    {
+      "author": "Rob Hubbard",
+      "title": "Zoolook",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=10h25m47s",
+      "offset": "10:25:47",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Hubbard_Rob\/Zoolook.sid",
+      "favourite": true
+    },
+    {
+      "author": "Rob Hubbard",
+      "title": "The Master of Magic",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=10h29m57s",
+      "offset": "10:29:57",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/H\/Hubbard_Rob\/Master_of_Magic.sid"
+    },
+    {
+      "author": "Jens Blidon",
+      "title": "The Magic Writer (tune 00)",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=10h35m13s",
+      "offset": "10:35:13",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/B\/Blidon_Jens\/Magic_Writer_tune_00.sid",
+      "favourite": true
+    },
+    {
+      "author": "Wojciech Wojtkiewicz (Tracker)",
+      "title": "Saxophone",
+      "youtube": "https:\/\/www.youtube.com\/watch?v=U9Racui9jJI#t=10h37m10s",
+      "offset": "10:37:10",
+      "hvsc": "http:\/\/hvsc.perff.dk\/MUSICIANS\/T\/Tracker\/Saxophone.sid",
+      "favourite": true
+    }
+  ]
 }

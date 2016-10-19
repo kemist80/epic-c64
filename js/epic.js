@@ -22,12 +22,17 @@ $(document).ready(function () {
       playMusic();
     }
   });
+  
+  $('#rand').click(function(){
+    index=Math.floor(Math.random() * (musicData.length ));
+    playMusic();    
+  });
 });
 
 
 function loadJsonData(callback) {
   $.getJSON("epic.json", function (json) {
-    musicData=json.favourites;
+    musicData=json.songs;
     callback();
   });
 }

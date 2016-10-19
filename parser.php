@@ -46,7 +46,7 @@ foreach ($table->filter('td') as $cell) {
 }
 
 $data=array(
-    'favourites'=>$items
+    'songs'=>$items
 );
 
 file_put_contents('epic.json',json_encode($data,JSON_PRETTY_PRINT));
