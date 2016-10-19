@@ -42,6 +42,7 @@ function playMusic(idx){
     $('#author').html(item.author);
     $('#title').html(item.title);
     $('#position').html((index+1)+' / 209');
+    $('#hvsc').attr('href',item.hvsc);
     var temp=item.offset.split(':');
     var startSeconds=parseInt(temp[0]*60*60)+parseInt(temp[1]*60)+parseInt(temp[2]);
     var nextItem=musicData[(index+1)];
@@ -52,6 +53,8 @@ function playMusic(idx){
       end='&end='+endSeconds;
     }
     iframe.attr('src','https://www.youtube-nocookie.com/embed/'+videoId+'?rel=0&autoplay=1&start='+startSeconds+end);
+    $('#links a').removeClass('selected');
+    $('#link'+index).addClass('selected');
   }
 }
 
@@ -61,7 +64,7 @@ function drawLinks(){
   var item,link;
   for (var i=0;i<musicData.length;i++){
     item=musicData[i];
-    link=$('<a style="display: block; text-align: left; cursor: pointer" onclick="playMusic('+i+');">'+(i+1)+'. '+item.title+' - '+item.author+'</a>');
+    link=$('<a id="link'+i+'" onclick="playMusic('+i+');">'+(i+1)+'. '+item.title+' - '+item.author+'</a>');
     links.append(link);
   }
   
