@@ -32,7 +32,9 @@ foreach ($table->filter('td') as $cell) {
   
   $raw = strip_tags($cell->ownerDocument->saveHTML($cell), '<br>');
   $authorAndTitle = end(explode('<br>', $raw));
-  list($item->title, $item->author) = explode(' - ', $authorAndTitle);
+  $temp2=explode(' - ', $authorAndTitle);
+  $item->author=array_pop($temp2);
+  $item->title=join(' - ',$temp2);
   
   $links=$cell->getElementsByTagName('a');
   $youtubeLink=$links[0];
