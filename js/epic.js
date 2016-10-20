@@ -1,8 +1,12 @@
 var musicData;
 var index=0;
 var videoId='U9Racui9jJI';
+var filtered=false;
+var filteredMusicData=[];
 
 $(document).ready(function () {
+  
+  filtered=$('#filter').prop('checked');
   
   loadJsonData(function(){
     drawLinks();
@@ -10,7 +14,7 @@ $(document).ready(function () {
   });
   
   $('#next').click(function(){
-    if (index < 207){
+    if (index < filteredMusicData.length){
       index++;
       playMusic();
     }
@@ -24,9 +28,14 @@ $(document).ready(function () {
   });
   
   $('#rand').click(function(){
-    index=Math.floor(Math.random() * (musicData.length ));
+    index=Math.floor(Math.random() * (filteredMusicData.length ));
     playMusic();    
   });
+  
+  $('#filter').click(function(){
+    filtered=$(this).prop('checked');
+    drawLinks();
+  });  
 });
 
 
@@ -42,15 +51,15 @@ function playMusic(idx){
   if (typeof idx !== 'undefined'){
     index=idx;
   }
-  var item=musicData[index];
+  var item=filteredMusicData[index];
   if (item.youtube){
     $('#author').html(item.author);
     $('#title').html(item.title);
-    $('#position').html((index+1)+' / 209');
+    $('#position').html((index+1)+' / '+filteredMusicData.length);
     $('#hvsc').attr('href',item.hvsc);
     var temp=item.offset.split(':');
     var startSeconds=parseInt(temp[0]*60*60)+parseInt(temp[1]*60)+parseInt(temp[2]);
-    var nextItem=musicData[(index+1)];
+    var nextItem=filteredMusicData[(index+1)];
     var end='';
     if (nextItem){
       var endTemp=nextItem.offset.split(':');
@@ -67,10 +76,16 @@ function drawLinks(){
   var links=$('#links');
   links.html('');
   var item,link;
+  var j=0;
+  filteredMusicData=[];
   for (var i=0;i<musicData.length;i++){
-    item=musicData[i];
-    link=$('<a id="link'+i+'" onclick="playMusic('+i+');">'+(i+1)+'. '+item.title+' - '+item.author+'</a>');
-    links.append(link);
+    item=musicData[i];    
+    if (!filtered || item.favourite){
+      link=$('<a id="link'+j+'" onclick="playMusic('+j+');">'+(j+1)+'. '+item.title+' - '+item.author+'</a>');
+      links.append(link);
+      filteredMusicData.push(item);
+      j++;
+    }
   }
-  
+  $('#position').html((index+1)+' / '+filteredMusicData.length);
 }

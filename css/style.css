@@ -23,3 +23,7 @@
   color: #fff;
   background: #000;
 }
+
+label{
+  display: block;
+}
